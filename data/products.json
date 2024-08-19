@@ -1,0 +1,11 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "Bags",
+            "price":"130",
+            "url": "",
+            "category" : "Promotional Merchandise"
+        }
+    ]
+}
